@@ -1,4 +1,4 @@
-# TwsLite Back end - PHP version
+# Finance control backend and REST API in PHP 
 
 This is one back end version of the TwsLite finance software, its business logic and modelling, made public in 2017.
 
@@ -23,8 +23,8 @@ Technologies
 
 Layers
 * User interfaces:
-** Tratitional PHP (index.php) rendering under a login session
-** REST API (although not REST full, in imp, mnr and public folders), servind clients (other Projects) requests under a token session
+  * Tratitional PHP (index.php) rendering under a login session
+  * REST API (although not REST full, in imp, mnr and public folders), servind clients (other Projects) requests under a token session
 * Business logic (b*.php files): Based in PHP Classes plus OOP concepts and practices learned fron C#
 * Data access (d*.php files): Classic PHP/MySQL 
 
