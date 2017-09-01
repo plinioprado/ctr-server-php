@@ -36,6 +36,6 @@ This code is intended primarely to be used as a reference, but can be installed 
 * Install the MySQL database from the folder /dbinstall
 * Replace 'xxxxxx' from the connection code in d.php by the connection data of the installed MySQL
 
-## Collaboration and quesitons
+## Collaboration and quesitions
 
 Contact plinio.prado@immaginare.com.br
